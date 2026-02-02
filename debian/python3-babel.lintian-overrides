@@ -1,0 +1,4 @@
+python3-babel: copyright-without-copyright-notice
+python3-babel: initial-upload-closes-no-bugs
+python3-babel: no-manual-page
+python3-babel: zero-byte-file-in-doc-directory
