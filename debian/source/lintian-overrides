@@ -1,0 +1,5 @@
+python-babel source: file-without-copyright-information
+python-babel source: no-debian-changes
+python-babel source: source-contains-prebuilt-windows-binary
+python-babel source: source-is-missing
+python-babel source: source-package-encodes-python-version
